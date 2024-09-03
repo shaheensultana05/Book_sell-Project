@@ -1,0 +1,41 @@
+.new,
+.macbook,
+.supercharged,
+.buy,
+.from1999{
+    font-family:Arial;
+    text-align:center;
+    margin-bottom:0;
+    margin-top:0;
+}
+.macbook,
+.supercharged{
+    font-weight:bold;
+}
+.new{
+    color:red;
+    font-size:15px;
+}
+.macbook{
+font-size:20px;
+margin-top:10px;
+}
+.supercharged{
+font-size:40px;
+}
+.buy{
+border-radius:28px;
+border:none;
+text-align:center;
+background-color:rgb(41, 131, 233);
+padding-top:8px;
+padding-bottom:8px;
+padding-left:15px;
+padding-right:15px;
+margin-left:650px;
+margin-top:12px;
+color:white;
+}
+.from1999{
+ margin-top:8px;
+}
